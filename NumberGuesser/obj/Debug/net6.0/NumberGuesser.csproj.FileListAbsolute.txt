@@ -1,0 +1,15 @@
+E:\Self Study\LinkedIn Learning\Learning C#\LinkedIn Learning C#\NumberGuesser\bin\Debug\net6.0\NumberGuesser.exe
+E:\Self Study\LinkedIn Learning\Learning C#\LinkedIn Learning C#\NumberGuesser\bin\Debug\net6.0\NumberGuesser.deps.json
+E:\Self Study\LinkedIn Learning\Learning C#\LinkedIn Learning C#\NumberGuesser\bin\Debug\net6.0\NumberGuesser.runtimeconfig.json
+E:\Self Study\LinkedIn Learning\Learning C#\LinkedIn Learning C#\NumberGuesser\bin\Debug\net6.0\NumberGuesser.dll
+E:\Self Study\LinkedIn Learning\Learning C#\LinkedIn Learning C#\NumberGuesser\bin\Debug\net6.0\NumberGuesser.pdb
+E:\Self Study\LinkedIn Learning\Learning C#\LinkedIn Learning C#\NumberGuesser\obj\Debug\net6.0\NumberGuesser.csproj.AssemblyReference.cache
+E:\Self Study\LinkedIn Learning\Learning C#\LinkedIn Learning C#\NumberGuesser\obj\Debug\net6.0\NumberGuesser.GeneratedMSBuildEditorConfig.editorconfig
+E:\Self Study\LinkedIn Learning\Learning C#\LinkedIn Learning C#\NumberGuesser\obj\Debug\net6.0\NumberGuesser.AssemblyInfoInputs.cache
+E:\Self Study\LinkedIn Learning\Learning C#\LinkedIn Learning C#\NumberGuesser\obj\Debug\net6.0\NumberGuesser.AssemblyInfo.cs
+E:\Self Study\LinkedIn Learning\Learning C#\LinkedIn Learning C#\NumberGuesser\obj\Debug\net6.0\NumberGuesser.csproj.CoreCompileInputs.cache
+E:\Self Study\LinkedIn Learning\Learning C#\LinkedIn Learning C#\NumberGuesser\obj\Debug\net6.0\NumberGuesser.dll
+E:\Self Study\LinkedIn Learning\Learning C#\LinkedIn Learning C#\NumberGuesser\obj\Debug\net6.0\refint\NumberGuesser.dll
+E:\Self Study\LinkedIn Learning\Learning C#\LinkedIn Learning C#\NumberGuesser\obj\Debug\net6.0\NumberGuesser.pdb
+E:\Self Study\LinkedIn Learning\Learning C#\LinkedIn Learning C#\NumberGuesser\obj\Debug\net6.0\NumberGuesser.genruntimeconfig.cache
+E:\Self Study\LinkedIn Learning\Learning C#\LinkedIn Learning C#\NumberGuesser\obj\Debug\net6.0\ref\NumberGuesser.dll
