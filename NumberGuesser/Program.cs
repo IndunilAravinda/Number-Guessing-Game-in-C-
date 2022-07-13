@@ -17,6 +17,7 @@ class NumberGuess
         int count = 1;
         while (guessedIncorrect)
         {
+            Console.WriteLine("");
             Console.WriteLine("Enter your guess, or -1 to give up");
 
             // recording the guess
